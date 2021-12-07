@@ -26,3 +26,5 @@ public class Producer {
 	    }
 
 }
+
+//texto de prueba para el producer
